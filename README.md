@@ -33,8 +33,4 @@ I'm 5ymbi1r0n, a developer who loves to work with old game consoles and writing 
 ## Contact Me
 - Please dont!
 
-## Fun Fact
-Did you know? The Magnavox Odyssey, the first video game console, was a circuit-based system that did not use any kind of CPU.
-
-![Game Consoles](https://www.aftersomemath.com/assets/img/odyssey-replaced-daughter-cards.jpg)
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
