@@ -25,7 +25,7 @@ I'm 5ymbi1r0n, a developer who loves to work with old game consoles and writing 
 - 💾  Game Development
 
 ## Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Symbitron&layout=donut-vertical&count_private=true&include_forks=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Symbitrons&repo=PerformanceSandBox&theme=dark#gh-dark-mode-only)](https://github.com/hyperledger-labs/PerformanceSandBox#gh-dark-mode-only)
 
 ## Projects
 - a bunch of rubbish!
