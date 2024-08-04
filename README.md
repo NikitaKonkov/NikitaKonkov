@@ -25,7 +25,7 @@ I'm 5ymbi1r0n, a developer who loves to work with old game consoles and writing 
 - 💾  Game Development
 
 ## Skills
-- **Languages**: Assembly x86, C++, Python, Java
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Symbitron&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 - 
