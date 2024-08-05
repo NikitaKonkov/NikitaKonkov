@@ -34,3 +34,5 @@ I'm 5ymbi1r0n, a developer who loves to work with old game consoles and writing 
 - Please dont!
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+
+[![Top Langs](https://raw.githubusercontent.com/sammorozov/sammorozov/35dbd34c9cfb9f3b23aadaccbe672e65e9792956/assets/github-snake.svg)
