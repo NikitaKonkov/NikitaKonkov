@@ -25,6 +25,13 @@ I'm 5ymbi1r0n, a developer who loves to work with old game consoles and writing 
 - 💾  Game Development
 
 ## Skills
+### Languages:
+| Python3 | C | JAVA | ASSEMBLY |
+|----------|----------|----------|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/assembly/assembly-original.svg" title="Assembly" alt="Assembly" width="55" height="55"/> |
+
+
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Symbitron&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
