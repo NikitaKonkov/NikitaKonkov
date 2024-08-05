@@ -27,12 +27,6 @@ I'm 5ymbi1r0n, a developer who loves to work with old game consoles and writing 
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Symbitron&layout=donut-vertical&count_private=true&include_forks=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects
-- a bunch of rubbish!
-
-## Contact Me
-- Please dont!
-
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
-[![Top Langs](https://raw.githubusercontent.com/sammorozov/sammorozov/35dbd34c9cfb9f3b23aadaccbe672e65e9792956/assets/github-snake.svg)
+![Top Langs](https://raw.githubusercontent.com/sammorozov/sammorozov/35dbd34c9cfb9f3b23aadaccbe672e65e9792956/assets/github-snake.svg)
