@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to My GitHub Profile! 💥
+# Welcome to My GitHub Profile!
 
 ## About Me
-I'm 5ymbi1r0n, a developer who loves to work with old game consoles and writing code in various programming languages.
+I'm Nikita, a developer who loves to work with old game consoles and writing code in various programming languages.
 
 ## Interests
 - 🎮  Game Consoles
-- 💻  Assembly Language
 - 🖥   Low-Level Programming
 - 💾  Game Development
 
