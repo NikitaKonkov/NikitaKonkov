@@ -20,8 +20,8 @@ I'm Nikita, a developer who loves to work with old game consoles and writing cod
 
 ## Interests
 - 🔭  Science
-- 🎮  Game Consoles
-- 🖥   Low-Level Programming
+- ⚡  Web Development
+- 🖥   Low-Level Development
 - 💾  Game Development
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKonkov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark)
