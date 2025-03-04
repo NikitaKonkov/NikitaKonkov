@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 I'm Nikita, a developer who loves to work with old game consoles and writing code in various programming languages.
 
 ## Interests
+- 🔭  Science
 - 🎮  Game Consoles
 - 🖥   Low-Level Programming
 - 💾  Game Development
