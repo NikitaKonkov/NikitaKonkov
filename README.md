@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="background-color: #2b213a; color: white; padding: 20px; border-radius: 10px;">
+
 # Welcome to My GitHub Profile!
 
 ## About Me
@@ -23,12 +25,16 @@ I'm Nikita, a developer who loves to work with old game consoles and writing cod
 - ⚡  Web Development
 - 🌱  Backend Development
 - 🖥   Low-Level Development
+
 ## Portfolio
 - ✨  https://portfolio-five-sand-88.vercel.app/
+
 ## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKonkov&langs_count=6&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 ##### MIT License Copyright (c) 2025 Nikita's Permission is hereby granted, free of charge etc.
 ##
 ![Top Langs](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
+</div>
