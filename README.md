@@ -23,11 +23,13 @@ I'm Nikita, a developer who loves to work with old game consoles and writing cod
 - ⚡  Web Development
 - 🖥   Low-Level Development
 - 💾  Game Development
-#
+## Portfolio
+- ✨  https://portfolio-five-sand-88.vercel.app/
+## Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKonkov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark)
 
 
-### Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+## Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
 
 ![Top Langs](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
