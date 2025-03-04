@@ -21,8 +21,8 @@ I'm Nikita, a developer who loves to work with old game consoles and writing cod
 ## Interests
 - 🔭  Science
 - ⚡  Web Development
+- 🌱  Backend Development
 - 🖥   Low-Level Development
-- 💾  Game Development
 ## Portfolio
 - ✨  https://portfolio-five-sand-88.vercel.app/
 ## Most used languages
