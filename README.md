@@ -27,6 +27,7 @@ I'm Nikita, a developer who loves to work with old game consoles and writing cod
 - ✨  https://portfolio-five-sand-88.vercel.app/
 ## Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKonkov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKonkov&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ##
 ##### MIT License Copyright (c) 2025 Nikita's Permission is hereby granted, free of charge etc.
 ##
