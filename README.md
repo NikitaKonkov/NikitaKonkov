@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="background-color: #2b213a; color: white; padding: 20px; border-radius: 10px;">
+<table style="background-color: #2b213a; width: 100%; border: none;">
+<tr>
+<td style="border: none;">
 
 # Welcome to My GitHub Profile!
 
@@ -37,4 +39,6 @@ I'm Nikita, a developer who loves to work with old game consoles and writing cod
 ##
 ![Top Langs](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-</div>
+</td>
+</tr>
+</table>
