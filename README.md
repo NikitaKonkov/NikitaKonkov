@@ -1,5 +1,5 @@
 <!--
-**Symbitron/Symbitron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NikitaKonkov/NikitaKonkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -34,7 +34,7 @@ I'm Nikita, a developer who loves to work with old game consoles and writing cod
 
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Symbitron&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKonkov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
