@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Welcome to My GitHub Profile!
 
 ## About Me
-I'm Nikita Wagner, a developer who loves to work with old game consoles and writing code in various programming languages.
+I'm Nikita Konkov, a developer who loves to work with old game consoles and writing code in various programming languages.
 
 ## Interests
 - 🔭  Science
