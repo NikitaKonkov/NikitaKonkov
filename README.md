@@ -28,9 +28,6 @@ I'm Nikita Konkov, a developer who loves to work with old game consoles and writ
 - 🌱  Backend Development
 - 🖥   Low-Level Development
 
-## Portfolio
-- ✨  https://portfolio-five-sand-88.vercel.app/
-
 ## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKonkov&langs_count=6&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
